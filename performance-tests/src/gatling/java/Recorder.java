@@ -1,7 +1,5 @@
 import scala.Option;
 
-import java.nio.file.Path;
-
 import io.gatling.recorder.GatlingRecorder;
 import io.gatling.recorder.config.RecorderPropertiesBuilder;
 
